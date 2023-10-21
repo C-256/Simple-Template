@@ -27,11 +27,13 @@
 *.lib
 
 # Executables
+[Bb]in/
 *.exe
 *.out
 *.app
 
 # CMake files
+[Mm]ake
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
