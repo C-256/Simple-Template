@@ -33,7 +33,7 @@
 *.app
 
 # CMake files
-[Mm]ake
+build/
 !CMakeLists.txt
 CMakeLists.txt.user
 CMakeCache.txt
@@ -51,6 +51,5 @@ _deps
 .vs/
 .vscode/
 
-# Others
-build/
+# Git files
 .gitignore
