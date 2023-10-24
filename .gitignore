@@ -34,7 +34,6 @@
 
 # CMake files
 build/
-!CMakeLists.txt
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -50,6 +49,3 @@ _deps
 # IDEs' files
 .vs/
 .vscode/
-
-# Git files
-.gitignore
